@@ -119,5 +119,9 @@ The Online Job Portal ensures efficient job management for employers and job see
 4. Run the application:
     - Build and run the Spring Boot application.
     - The application will be deployed locally at http://localhost:8080.
+
+##Author
+
+* **Satyam Kumar
   
 
